@@ -1,0 +1,39 @@
+body{
+  background-color: #4d4a49;
+  font-family: 'Lobster', cursive;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+
+.dice {
+  text-align: center;
+  display: inline-block;
+ font-size: 2.5rem;
+ padding: 10px;
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-weight: 900;
+  font-size: 7.5rem;
+  margin-top: 0px;
+  color: aquamarine;
+}
+footer{
+  color: #fff;
+}
+
+p{
+color: aquamarine;
+
+}
+
+.clickme{
+  padding: 14px 16px;
+  background-color: aquamarine;
+  border-radius: 20px;
+  margin-right: 40px;
+  border: none; 
+}
+
+ 
